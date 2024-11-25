@@ -1,6 +1,6 @@
 dataset: TreeDataset
 depth: 4
-num_workers: 8
+num_workers: 6
 seed: 0
 model:
   gMHA_type: MLPMixer

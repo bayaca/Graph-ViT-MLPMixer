@@ -1,5 +1,5 @@
 dataset: exp-classify
-num_workers: 8
+num_workers: 6
 model:
   gnn_type: GINEConv
   nlayer_gnn: 4
